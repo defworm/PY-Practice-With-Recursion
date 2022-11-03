@@ -10,3 +10,6 @@ print("is 'apple' a palindrome?")
 print(is_palindrome('apple'))
 print("is 'tacocat' a palindrome?")
 print(is_palindrome('tacocat'))
+
+print("is 'booboo' a palindrome?")
+print(is_palindrome('booboo'))
